@@ -1,4 +1,4 @@
-# Chatbot MVP — Desafio ICT Itaú (Inova Talentos)
+# Chatbot MVP —  (Inova )
 
 Este repositório contém um **MVP funcional** de um chatbot corporativo, desenvolvido como resposta ao desafio do processo seletivo (PROJ_1182728334), contemplando:
 - apresentação conceitual do modelo;
